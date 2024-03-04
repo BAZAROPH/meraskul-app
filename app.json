@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Meraskul",
+    "slug": "meraskul",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "icon": "./assets/logo/logo_2.png",
+    "extra": {
+      "eas": {
+        "projectId": "013cad78-1c3d-4dbc-8269-390782ca2a21"
+      }
+    }
+  }
+}
